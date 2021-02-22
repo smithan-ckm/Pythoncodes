@@ -1,0 +1,3 @@
+str = "hai"
+str1 ="welcome"
+print(str+" " +str1)
