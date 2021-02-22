@@ -1,0 +1,8 @@
+list =[‘s’,’i’,’m’]
+           str=” “
+           for e in list:
+		            str+=e
+           print(str)
+         Or
+        Str = “ “.join(list)
+       print(str)
