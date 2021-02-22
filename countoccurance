@@ -1,0 +1,11 @@
+from collections import Counter
+
+t=['s','w','s','s']
+
+print(Counter(t))
+o/p 
+In dict form
+Or
+t=['s','w','s','s']
+
+print(t.count('s'))
